@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PASAT_Mono", "PASAT_Mono\PASAT_Mono.csproj", "{DB8264E8-9394-4183-9524-77C32F200D35}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{3394D7E6-D495-429E-BB91-3E820AE42D0F}"
+	ProjectSection(SolutionItems) = preProject
+		PASAT_Mono\PasatTest.cs = PASAT_Mono\PasatTest.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB8264E8-9394-4183-9524-77C32F200D35}.Debug|x86.ActiveCfg = Debug|x86
+		{DB8264E8-9394-4183-9524-77C32F200D35}.Debug|x86.Build.0 = Debug|x86
+		{DB8264E8-9394-4183-9524-77C32F200D35}.Release|x86.ActiveCfg = Release|x86
+		{DB8264E8-9394-4183-9524-77C32F200D35}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = PASAT_Mono\PASAT_Mono.csproj
+		Policies = $0
+		$0.DotNetNamingPolicy = $1
+		$1.DirectoryNamespaceAssociation = None
+		$1.ResourceNamePolicy = FileFormatDefault
+		$0.TextStylePolicy = $2
+		$2.FileWidth = 120
+		$2.TabWidth = 4
+		$2.RemoveTrailingWhitespace = True
+		$2.inheritsSet = Mono
+		$2.inheritsScope = text/plain
+		$2.scope = text/plain
+		$0.TextStylePolicy = $3
+		$3.inheritsSet = null
+		$3.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $4
+		$4.inheritsSet = Mono
+		$4.inheritsScope = text/x-csharp
+		$4.scope = text/x-csharp
+		$0.VersionControlPolicy = $5
+		$5.inheritsSet = Mono
+		$0.ChangeLogPolicy = $6
+		$6.UpdateMode = None
+		$6.MessageStyle = $7
+		$7.LineAlign = 0
+		$6.inheritsSet = Mono
+	EndGlobalSection
+EndGlobal

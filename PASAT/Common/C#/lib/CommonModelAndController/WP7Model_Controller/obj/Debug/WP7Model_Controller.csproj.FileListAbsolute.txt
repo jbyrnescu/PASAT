@@ -1,0 +1,5 @@
+C:\Users\jbyrne\Documents\Visual Studio 2010\Projects\trunk pasattest-code-0\PASAT\Common\C#\lib\CommonModelAndController\WP7Model_Controller\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jbyrne\Documents\Visual Studio 2010\Projects\trunk pasattest-code-0\PASAT\Common\C#\lib\CommonModelAndController\WP7Model_Controller\Bin\Debug\WP7Model_Controller.dll
+C:\Users\jbyrne\Documents\Visual Studio 2010\Projects\trunk pasattest-code-0\PASAT\Common\C#\lib\CommonModelAndController\WP7Model_Controller\Bin\Debug\WP7Model_Controller.pdb
+C:\Users\jbyrne\Documents\Visual Studio 2010\Projects\trunk pasattest-code-0\PASAT\Common\C#\lib\CommonModelAndController\WP7Model_Controller\obj\Debug\WP7Model_Controller.dll
+C:\Users\jbyrne\Documents\Visual Studio 2010\Projects\trunk pasattest-code-0\PASAT\Common\C#\lib\CommonModelAndController\WP7Model_Controller\obj\Debug\WP7Model_Controller.pdb

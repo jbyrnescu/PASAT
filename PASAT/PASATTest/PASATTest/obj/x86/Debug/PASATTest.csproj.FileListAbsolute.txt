@@ -1,0 +1,48 @@
+C:\Users\jbyrne\Documents\Visual Studio 2010\Projects\PASAT\PASAT\PASATTest\PASATTest\bin\Debug\Resources\1.wav
+C:\Users\jbyrne\Documents\Visual Studio 2010\Projects\PASAT\PASAT\PASATTest\PASATTest\bin\Debug\Resources\2.wav
+C:\Users\jbyrne\Documents\Visual Studio 2010\Projects\PASAT\PASAT\PASATTest\PASATTest\bin\Debug\Resources\3.wav
+C:\Users\jbyrne\Documents\Visual Studio 2010\Projects\PASAT\PASAT\PASATTest\PASATTest\bin\Debug\Resources\4.wav
+C:\Users\jbyrne\Documents\Visual Studio 2010\Projects\PASAT\PASAT\PASATTest\PASATTest\bin\Debug\Resources\5.wav
+C:\Users\jbyrne\Documents\Visual Studio 2010\Projects\PASAT\PASAT\PASATTest\PASATTest\bin\Debug\Resources\6.wav
+C:\Users\jbyrne\Documents\Visual Studio 2010\Projects\PASAT\PASAT\PASATTest\PASATTest\bin\Debug\Resources\7.wav
+C:\Users\jbyrne\Documents\Visual Studio 2010\Projects\PASAT\PASAT\PASATTest\PASATTest\bin\Debug\Resources\8.wav
+C:\Users\jbyrne\Documents\Visual Studio 2010\Projects\PASAT\PASAT\PASATTest\PASATTest\bin\Debug\Resources\9.wav
+C:\Users\jbyrne\Documents\Visual Studio 2010\Projects\PASAT\PASAT\PASATTest\PASATTest\bin\Debug\PASATTest.exe
+C:\Users\jbyrne\Documents\Visual Studio 2010\Projects\PASAT\PASAT\PASATTest\PASATTest\bin\Debug\PASATTest.pdb
+C:\Users\jbyrne\Documents\Visual Studio 2010\Projects\PASAT\PASAT\PASATTest\PASATTest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\jbyrne\Documents\Visual Studio 2010\Projects\PASAT\PASAT\PASATTest\PASATTest\obj\x86\Debug\MainWindow.baml
+C:\Users\jbyrne\Documents\Visual Studio 2010\Projects\PASAT\PASAT\PASATTest\PASATTest\obj\x86\Debug\MainWindow.g.cs
+C:\Users\jbyrne\Documents\Visual Studio 2010\Projects\PASAT\PASAT\PASATTest\PASATTest\obj\x86\Debug\App.g.cs
+C:\Users\jbyrne\Documents\Visual Studio 2010\Projects\PASAT\PASAT\PASATTest\PASATTest\obj\x86\Debug\PASATTest_Content.g.cs
+C:\Users\jbyrne\Documents\Visual Studio 2010\Projects\PASAT\PASAT\PASATTest\PASATTest\obj\x86\Debug\PASATTest_MarkupCompile.cache
+C:\Users\jbyrne\Documents\Visual Studio 2010\Projects\PASAT\PASAT\PASATTest\PASATTest\obj\x86\Debug\PASATTest.g.resources
+C:\Users\jbyrne\Documents\Visual Studio 2010\Projects\PASAT\PASAT\PASATTest\PASATTest\obj\x86\Debug\PASATTest.Properties.Resources.resources
+C:\Users\jbyrne\Documents\Visual Studio 2010\Projects\PASAT\PASAT\PASATTest\PASATTest\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\jbyrne\Documents\Visual Studio 2010\Projects\PASAT\PASAT\PASATTest\PASATTest\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\jbyrne\Documents\Visual Studio 2010\Projects\PASAT\PASAT\PASATTest\PASATTest\obj\x86\Debug\PASATTest.exe
+C:\Users\jbyrne\Documents\Visual Studio 2010\Projects\PASAT\PASAT\PASATTest\PASATTest\obj\x86\Debug\PASATTest.pdb
+C:\Users\jbyrne\Documents\Visual Studio 2010\Projects\trunk pasattest-code-0\PASAT\PASATTest\PASATTest\obj\x86\Debug\PASATTest.exe
+C:\Users\jbyrne\Documents\Visual Studio 2010\Projects\trunk pasattest-code-0\PASAT\PASATTest\PASATTest\obj\x86\Debug\PASATTest.pdb
+C:\Users\jbyrne\Documents\Visual Studio 2010\Projects\trunk pasattest-code-0\PASAT\PASATTest\PASATTest\bin\Debug\Resources\1.wav
+C:\Users\jbyrne\Documents\Visual Studio 2010\Projects\trunk pasattest-code-0\PASAT\PASATTest\PASATTest\bin\Debug\Resources\2.wav
+C:\Users\jbyrne\Documents\Visual Studio 2010\Projects\trunk pasattest-code-0\PASAT\PASATTest\PASATTest\bin\Debug\Resources\3.wav
+C:\Users\jbyrne\Documents\Visual Studio 2010\Projects\trunk pasattest-code-0\PASAT\PASATTest\PASATTest\bin\Debug\Resources\4.wav
+C:\Users\jbyrne\Documents\Visual Studio 2010\Projects\trunk pasattest-code-0\PASAT\PASATTest\PASATTest\bin\Debug\Resources\5.wav
+C:\Users\jbyrne\Documents\Visual Studio 2010\Projects\trunk pasattest-code-0\PASAT\PASATTest\PASATTest\bin\Debug\Resources\6.wav
+C:\Users\jbyrne\Documents\Visual Studio 2010\Projects\trunk pasattest-code-0\PASAT\PASATTest\PASATTest\bin\Debug\Resources\7.wav
+C:\Users\jbyrne\Documents\Visual Studio 2010\Projects\trunk pasattest-code-0\PASAT\PASATTest\PASATTest\bin\Debug\Resources\8.wav
+C:\Users\jbyrne\Documents\Visual Studio 2010\Projects\trunk pasattest-code-0\PASAT\PASATTest\PASATTest\bin\Debug\Resources\9.wav
+C:\Users\jbyrne\Documents\Visual Studio 2010\Projects\trunk pasattest-code-0\PASAT\PASATTest\PASATTest\bin\Debug\PASATTest.exe
+C:\Users\jbyrne\Documents\Visual Studio 2010\Projects\trunk pasattest-code-0\PASAT\PASATTest\PASATTest\bin\Debug\PASATTest.pdb
+C:\Users\jbyrne\Documents\Visual Studio 2010\Projects\trunk pasattest-code-0\PASAT\PASATTest\PASATTest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\jbyrne\Documents\Visual Studio 2010\Projects\trunk pasattest-code-0\PASAT\PASATTest\PASATTest\obj\x86\Debug\MainWindow.baml
+C:\Users\jbyrne\Documents\Visual Studio 2010\Projects\trunk pasattest-code-0\PASAT\PASATTest\PASATTest\obj\x86\Debug\MainWindow.g.cs
+C:\Users\jbyrne\Documents\Visual Studio 2010\Projects\trunk pasattest-code-0\PASAT\PASATTest\PASATTest\obj\x86\Debug\App.g.cs
+C:\Users\jbyrne\Documents\Visual Studio 2010\Projects\trunk pasattest-code-0\PASAT\PASATTest\PASATTest\obj\x86\Debug\PASATTest_Content.g.cs
+C:\Users\jbyrne\Documents\Visual Studio 2010\Projects\trunk pasattest-code-0\PASAT\PASATTest\PASATTest\obj\x86\Debug\PASATTest_MarkupCompile.cache
+C:\Users\jbyrne\Documents\Visual Studio 2010\Projects\trunk pasattest-code-0\PASAT\PASATTest\PASATTest\obj\x86\Debug\PASATTest.g.resources
+C:\Users\jbyrne\Documents\Visual Studio 2010\Projects\trunk pasattest-code-0\PASAT\PASATTest\PASATTest\obj\x86\Debug\PASATTest.Properties.Resources.resources
+C:\Users\jbyrne\Documents\Visual Studio 2010\Projects\trunk pasattest-code-0\PASAT\PASATTest\PASATTest\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\jbyrne\Documents\Visual Studio 2010\Projects\trunk pasattest-code-0\PASAT\PASATTest\PASATTest\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\jbyrne\Documents\Visual Studio 2010\Projects\trunk pasattest-code-0\PASAT\PASATTest\PASATTest\bin\Debug\CommonModelAndController.dll
+C:\Users\jbyrne\Documents\Visual Studio 2010\Projects\trunk pasattest-code-0\PASAT\PASATTest\PASATTest\bin\Debug\CommonModelAndController.pdb

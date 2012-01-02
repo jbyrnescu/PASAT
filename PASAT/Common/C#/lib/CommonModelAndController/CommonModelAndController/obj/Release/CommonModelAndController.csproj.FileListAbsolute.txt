@@ -1,0 +1,6 @@
+C:\Users\jbyrne\AppData\Local\Temporary Projects\CommonModelAndController\obj\Release\ResolveAssemblyReference.cache
+C:\Users\jbyrne\Documents\Visual Studio 2010\Projects\trunk pasattest-code-0\PASAT\Common\C#\lib\CommonModelAndController\CommonModelAndController\obj\Release\ResolveAssemblyReference.cache
+C:\Users\jbyrne\Documents\Visual Studio 2010\Projects\trunk pasattest-code-0\PASAT\Common\C#\lib\CommonModelAndController\CommonModelAndController\bin\Release\CommonModelAndController.dll
+C:\Users\jbyrne\Documents\Visual Studio 2010\Projects\trunk pasattest-code-0\PASAT\Common\C#\lib\CommonModelAndController\CommonModelAndController\bin\Release\CommonModelAndController.pdb
+C:\Users\jbyrne\Documents\Visual Studio 2010\Projects\trunk pasattest-code-0\PASAT\Common\C#\lib\CommonModelAndController\CommonModelAndController\obj\Release\CommonModelAndController.dll
+C:\Users\jbyrne\Documents\Visual Studio 2010\Projects\trunk pasattest-code-0\PASAT\Common\C#\lib\CommonModelAndController\CommonModelAndController\obj\Release\CommonModelAndController.pdb

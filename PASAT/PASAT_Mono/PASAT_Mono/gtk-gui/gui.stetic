@@ -1,0 +1,264 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<stetic-interface>
+  <configuration>
+    <images-root-path>..</images-root-path>
+    <target-gtk-version>2.12</target-gtk-version>
+  </configuration>
+  <import>
+    <widget-library name="glade-sharp, Version=2.12.0.0, Culture=neutral, PublicKeyToken=35e10195dab3c99f" />
+    <widget-library name="../bin/Debug/PASAT_Mono.exe" internal="true" />
+  </import>
+  <widget class="Gtk.Window" id="MainWindow" design-size="435 313">
+    <property name="MemberName" />
+    <property name="Title" translatable="yes">PASAT:  PACED  AUDITORY  SERIAL  ADDITION  TEST</property>
+    <property name="Icon">stock:gtk-bold Menu</property>
+    <property name="WindowPosition">CenterOnParent</property>
+    <signal name="DeleteEvent" handler="OnDeleteEvent" />
+    <child>
+      <widget class="Gtk.Fixed" id="fixed1">
+        <property name="MemberName" />
+        <property name="HasWindow">False</property>
+        <child>
+          <widget class="Gtk.Label" id="selTestFormLabel">
+            <property name="MemberName" />
+            <property name="LabelProp" translatable="yes">Select Test Form</property>
+            <property name="Justify">Right</property>
+            <property name="SingleLineMode">True</property>
+          </widget>
+          <packing>
+            <property name="X">60</property>
+            <property name="Y">25</property>
+          </packing>
+        </child>
+        <child>
+          <widget class="Gtk.Label" id="selTestTypeLabel">
+            <property name="MemberName" />
+            <property name="LabelProp" translatable="yes">Select  Test  Type</property>
+            <property name="Justify">Right</property>
+            <property name="SingleLineMode">True</property>
+          </widget>
+          <packing>
+            <property name="X">51</property>
+            <property name="Y">58</property>
+          </packing>
+        </child>
+        <child>
+          <widget class="Gtk.RadioButton" id="radiobuttonFormB">
+            <property name="MemberName" />
+            <property name="CanFocus">True</property>
+            <property name="Label" translatable="yes">Form  B</property>
+            <property name="Active">True</property>
+            <property name="DrawIndicator">True</property>
+            <property name="HasLabel">True</property>
+            <property name="Group">groupFormSelect</property>
+          </widget>
+          <packing>
+            <property name="X">260</property>
+            <property name="Y">22</property>
+          </packing>
+        </child>
+        <child>
+          <widget class="Gtk.RadioButton" id="radiobuttonFormA">
+            <property name="MemberName" />
+            <property name="CanFocus">True</property>
+            <property name="Label" translatable="yes">Form  A</property>
+            <property name="DrawIndicator">True</property>
+            <property name="HasLabel">True</property>
+            <property name="Group">groupFormSelect</property>
+          </widget>
+          <packing>
+            <property name="X">160</property>
+            <property name="Y">22</property>
+          </packing>
+        </child>
+        <child>
+          <widget class="Gtk.RadioButton" id="radiobuttonPractice">
+            <property name="MemberName" />
+            <property name="CanFocus">True</property>
+            <property name="Label" translatable="yes">Practice</property>
+            <property name="Active">True</property>
+            <property name="DrawIndicator">True</property>
+            <property name="HasLabel">True</property>
+            <property name="Group">groupTestType</property>
+          </widget>
+          <packing>
+            <property name="X">160</property>
+            <property name="Y">54</property>
+          </packing>
+        </child>
+        <child>
+          <widget class="Gtk.RadioButton" id="radiobuttonActual">
+            <property name="MemberName" />
+            <property name="CanFocus">True</property>
+            <property name="Label" translatable="yes">Actual</property>
+            <property name="DrawIndicator">True</property>
+            <property name="HasLabel">True</property>
+            <property name="Group">groupTestType</property>
+          </widget>
+          <packing>
+            <property name="X">260</property>
+            <property name="Y">52</property>
+          </packing>
+        </child>
+        <child>
+          <widget class="Gtk.Label" id="labelNumOfTests">
+            <property name="MemberName" />
+            <property name="LabelProp" translatable="yes">Number of Tests</property>
+            <property name="Justify">Right</property>
+            <property name="SingleLineMode">True</property>
+          </widget>
+          <packing>
+            <property name="X">56</property>
+            <property name="Y">90</property>
+          </packing>
+        </child>
+        <child>
+          <widget class="Gtk.SpinButton" id="spinbuttonNumPractice">
+            <property name="MemberName" />
+            <property name="CanFocus">True</property>
+            <property name="Lower">1</property>
+            <property name="Upper">3</property>
+            <property name="PageIncrement">1</property>
+            <property name="StepIncrement">1</property>
+            <property name="ClimbRate">1</property>
+            <property name="Digits">1</property>
+            <property name="Numeric">True</property>
+            <property name="SnapToTicks">True</property>
+            <property name="Value">1</property>
+            <property name="Wrap">True</property>
+          </widget>
+          <packing>
+            <property name="X">174</property>
+            <property name="Y">86</property>
+          </packing>
+        </child>
+        <child>
+          <widget class="Gtk.Label" id="labelNumActualTests">
+            <property name="MemberName" />
+            <property name="LabelProp" translatable="yes">1</property>
+            <property name="SingleLineMode">True</property>
+          </widget>
+          <packing>
+            <property name="X">288</property>
+            <property name="Y">90</property>
+          </packing>
+        </child>
+        <child>
+          <widget class="Gtk.Label" id="labelAnswersExpected">
+            <property name="MemberName" />
+            <property name="LabelProp" translatable="yes">Answers Expected</property>
+            <property name="Justify">Right</property>
+          </widget>
+          <packing>
+            <property name="X">52</property>
+            <property name="Y">124</property>
+          </packing>
+        </child>
+        <child>
+          <widget class="Gtk.Label" id="labelPracticeAnswersExpected">
+            <property name="MemberName" />
+            <property name="LabelProp" translatable="yes">10</property>
+            <property name="Justify">Center</property>
+            <property name="SingleLineMode">True</property>
+          </widget>
+          <packing>
+            <property name="X">190</property>
+            <property name="Y">124</property>
+          </packing>
+        </child>
+        <child>
+          <widget class="Gtk.Label" id="labelActualAnswersExpected">
+            <property name="MemberName" />
+            <property name="LabelProp" translatable="yes">60</property>
+            <property name="Justify">Center</property>
+            <property name="SingleLineMode">True</property>
+          </widget>
+          <packing>
+            <property name="X">284</property>
+            <property name="Y">124</property>
+          </packing>
+        </child>
+        <child>
+          <widget class="Gtk.Label" id="labelDelayBetweenNumbers">
+            <property name="MemberName" />
+            <property name="LabelProp" translatable="yes">Delay Between Numbers</property>
+            <property name="Justify">Right</property>
+            <property name="SingleLineMode">True</property>
+          </widget>
+          <packing>
+            <property name="X">19</property>
+            <property name="Y">154</property>
+          </packing>
+        </child>
+        <child>
+          <widget class="Gtk.RadioButton" id="radiobutton3seconds">
+            <property name="MemberName" />
+            <property name="CanFocus">True</property>
+            <property name="Label" translatable="yes">3  Seconds</property>
+            <property name="Active">True</property>
+            <property name="DrawIndicator">True</property>
+            <property name="HasLabel">True</property>
+            <property name="Group">groupDelaySeconds</property>
+          </widget>
+          <packing>
+            <property name="X">160</property>
+            <property name="Y">150</property>
+          </packing>
+        </child>
+        <child>
+          <widget class="Gtk.RadioButton" id="radiobutton2seconds">
+            <property name="MemberName" />
+            <property name="CanFocus">True</property>
+            <property name="Label" translatable="yes">2  Seconds</property>
+            <property name="DrawIndicator">True</property>
+            <property name="HasLabel">True</property>
+            <property name="UseUnderline">True</property>
+            <property name="Group">groupDelaySeconds</property>
+          </widget>
+          <packing>
+            <property name="X">260</property>
+            <property name="Y">150</property>
+          </packing>
+        </child>
+        <child>
+          <widget class="Gtk.Label" id="labelEstimatedTime">
+            <property name="MemberName" />
+            <property name="LabelProp" translatable="yes">Estimated Test Time</property>
+            <property name="Justify">Right</property>
+            <property name="SingleLineMode">True</property>
+          </widget>
+          <packing>
+            <property name="X">39</property>
+            <property name="Y">184</property>
+          </packing>
+        </child>
+        <child>
+          <widget class="Gtk.Button" id="buttonRunTest">
+            <property name="MemberName" />
+            <property name="CanFocus">True</property>
+            <property name="Type">TextOnly</property>
+            <property name="Label" translatable="yes">Run  Test</property>
+            <property name="UseUnderline">True</property>
+            <signal name="Clicked" handler="RunTestOnClicked" after="yes" />
+          </widget>
+          <packing>
+            <property name="X">164</property>
+            <property name="Y">215</property>
+          </packing>
+        </child>
+        <child>
+          <widget class="Gtk.Label" id="labelTimeEstimate">
+            <property name="MemberName" />
+            <property name="LabelProp" translatable="yes">1  Minute   10  Seconds</property>
+            <property name="Justify">Center</property>
+            <property name="SingleLineMode">True</property>
+          </widget>
+          <packing>
+            <property name="X">169</property>
+            <property name="Y">184</property>
+          </packing>
+        </child>
+      </widget>
+    </child>
+  </widget>
+</stetic-interface>

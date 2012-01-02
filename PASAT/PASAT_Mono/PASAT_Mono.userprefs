@@ -1,0 +1,19 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="PASAT_Mono\PASATTestThread.cs">
+    <Files>
+      <File FileName="PASAT_Mono\Main.cs" Line="1" Column="1" />
+      <File FileName="PASAT_Mono\MainWindow.cs" Line="1" Column="1" />
+      <File FileName="PASAT_Mono\PasatTest.cs" Line="1" Column="1" />
+      <File FileName="PASAT_Mono\PASATTestThread.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="C:\Randy\Programming\C#\Mono\Projects\PASAT\PASAT_Mono\PASAT_Mono\MainWindow.cs" line="202" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="PASAT_Mono\PASATTestThread.cs" line="239" offsetX="234" offsetY="3300" expression="sound8" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+</Properties>

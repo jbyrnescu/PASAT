@@ -1,0 +1,15 @@
+This is the Paced Auditory Serial Addition Test
+For more information on this program see: https://sourceforge.net/projects/pasattest/
+
+
+
+Please submit feedback.  This way everyone gets more free software.  If you have a problem 
+or want an extra feature, just ask!
+
+This zip file contains the executable as well as the recording template.  Before you run the test, launch Excel
+with the recording template loaded.  Then as the test is exercised add the subject/testee's correct or
+incorrect answers to the Excel spreadsheet by marking the incorrect row with a lowercase 'x'.  The Excel spreadsheet 
+scores the answers automatically if you enter it correctly.  Don't worry about recording the testee's answers, just 
+if it was correct or incorrect.
+
+For more information on the PASAT see http://www.pasat.us
